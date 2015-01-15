@@ -22,7 +22,7 @@ FFmpeg is a complete solution to record, convert and stream audio and video. It 
 e.g. If you want to convert an avi file into mpg format:
 ffmpeg -i input.avi output.mpg 
 
-[streamio-ffmpeg Gem]:
+streamio-ffmpeg Gem:
 streamio-ffmpeg is a wrapper that make use of ffmpeg commands. The functionalities provided through streamio-ffmpeg are such as duration ,size, frame rate etc of video file .
 
 Installation

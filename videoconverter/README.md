@@ -48,7 +48,7 @@ Require the gem
 require 'videoconverter'
 ```
 
-#### sresolution(width,height)
+#### resolution(width,height)
 Resize the video according to resolution
 
 * Example:
@@ -100,7 +100,7 @@ Extension provides a given extension to the video
  "actions": {"ext": ".avi"}
 ```
 
-* Example
+* Example for processing video
 ``` ruby
 request = {"source_url": "http://download.wavetlan.com/SVV/Media/HTTP/MP4/ConvertedFiles/Media-Convert/Unsupported/test7.mp4",
   "actions": 

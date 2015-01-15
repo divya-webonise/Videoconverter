@@ -17,7 +17,7 @@ The current gem is tested against streamio-ffmpeg 1.0.0.
 Dependencies 
 ------------
 
-[FFmpeg](https://www.ffmpeg.org)::
+[FFmpeg](https://www.ffmpeg.org):
 FFmpeg is a complete solution to record, convert and stream audio and video. It is a command line tool to convert one video file format to another. It supports various formats.
 e.g. If you want to convert an avi file into mpg format:
 ffmpeg -i input.avi output.mpg 

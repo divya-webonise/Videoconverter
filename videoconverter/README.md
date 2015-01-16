@@ -14,8 +14,9 @@ Dependencies:
 Ruby:
 Ruby 2.0.0
 
-[FFmpeg]:(https://www.ffmpeg.org)
+[FFmpeg](https://www.ffmpeg.org)
 FFmpeg 2.5.3
+
 Download FFmpeg from this link:
 https://www.ffmpeg.org/download.html
 

@@ -20,8 +20,8 @@ FFmpeg:
 Download FFmpeg from this link:
 https://www.ffmpeg.org/download.html
 
-[streamio-ffmpeg](http://www.rubydoc.info/gems/streamio-ffmpeg):
-streamio-ffmpeg 1.0.0
+streamio-ffmpeg:
+[streamio-ffmpeg 1.0.0](http://www.rubydoc.info/gems/streamio-ffmpeg)
 
 Installation:
 ------------

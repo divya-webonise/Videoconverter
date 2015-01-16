@@ -69,7 +69,7 @@ process method takes request as argument
 * "source_url": contains url from which videos should be taken for processing.
 * "directory": provides the location for storing manipulated videos.
 
-##Actions:
+###Actions:
 
 Actions are in the form of hash. It contains the list of operations user want to perform on video. The operations that can be performed are given below:
 

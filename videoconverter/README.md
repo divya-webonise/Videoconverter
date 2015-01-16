@@ -14,15 +14,16 @@ Dependencies:
 Ruby:
 Ruby 2.0.0
 
-[FFmpeg](https://www.ffmpeg.org)
+[FFmpeg]:(https://www.ffmpeg.org)
 FFmpeg 2.5.3
+Download FFmpeg from this link:
+https://www.ffmpeg.org/download.html
 
 [streamio-ffmpeg](http://www.rubydoc.info/gems/streamio-ffmpeg):
 streamio-ffmpeg 1.0.0
 
 Installation:
 ------------
-For ffmpeg installation refer install.sh
 ```Shell
 (sudo) gem install videoconverter
 ```
@@ -69,6 +70,7 @@ process method takes request as argument
 * "directory": provides the location for storing manipulated videos.
 
 Actions:
+
 Actions are in the form of hash. It contains the list of operations user want to perform on video. The operations that can be performed are given below:
 
 #### resolution(width,height)
